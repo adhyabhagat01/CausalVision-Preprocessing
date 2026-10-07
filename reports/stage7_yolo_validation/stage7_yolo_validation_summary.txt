@@ -1,0 +1,10 @@
+STAGE 7 — YOLO DATASET VALIDATION REPORT
+==========================================
+Total Images: 2100
+Total Labels: 2100
+Corrupt/Out-of-Bounds Files: 0
+
+Instance Counts per YOLO Class ID:
+  Class 0: 31571
+  Class 1: 10445
+  Class 2: 14191

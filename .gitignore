@@ -1,0 +1,15 @@
+CSDD_yolo/
+CSDD_yolo.zip
+CSDD_seg/
+dataset/
+data/
+runs/
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+.venv/
+venv/
+chroma_db/
+.vscode/
+*.log

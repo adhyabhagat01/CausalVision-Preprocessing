@@ -1,0 +1,38 @@
+{
+    "dataset_path": "C:\\Users\\Adhya\\OneDrive\\Desktop\\Projects\\Gen_AI\\project\\CSDD_seg",
+    "total_files": 4201,
+    "images": {
+        "count": 4200,
+        "total_size_gb": 2.555,
+        "extensions": {
+            ".jpg": 2100,
+            ".png": 2100
+        },
+        "dimensions": {
+            "3648x3648": 4200
+        },
+        "modes": {
+            "RGB": 2100,
+            "P": 2100
+        }
+    },
+    "annotations": {
+        "count": 1,
+        "total_size_mb": 0.001,
+        "extensions": {
+            ".txt": 1
+        }
+    },
+    "other_files": {
+        "count": 0,
+        "total_size_mb": 0.0,
+        "extensions": {}
+    },
+    "possible_splits": {
+        "test": 844,
+        "train": 2686,
+        "val": 670
+    },
+    "corrupted_images": 0,
+    "total_dataset_size_gb": 2.555
+}

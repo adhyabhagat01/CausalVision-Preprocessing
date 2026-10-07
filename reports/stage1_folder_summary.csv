@@ -1,0 +1,8 @@
+folder,file_count
+img\train,1343
+ground_truth\train,1343
+img\test,422
+ground_truth\test,422
+img\val,335
+ground_truth\val,335
+ROOT,1

@@ -1,0 +1,27 @@
+STAGE 4 — SEMANTIC LABEL + VISUAL ANNOTATION VALIDATION
+=================================================================
+
+IMPORTANT:
+Pixel values 1, 2 and 3 have NOT been assigned to Scratch, Spot or Rust automatically.
+The mapping must be confirmed through visual inspection or official dataset documentation.
+
+Total records checked: 2100
+Valid image-mask pairs: 2100
+Missing images: 0
+Read/processing errors: 0
+
+Visual examples generated:
+Pixel value 1: 10 examples
+Pixel value 2: 10 examples
+Pixel value 3: 10 examples
+
+SEMANTIC MAPPING TO VERIFY:
+----------------------------
+Pixel value 1 -> __________________
+Pixel value 2 -> __________________
+Pixel value 3 -> __________________
+
+Possible classes:
+Scratch
+Spot
+Rust

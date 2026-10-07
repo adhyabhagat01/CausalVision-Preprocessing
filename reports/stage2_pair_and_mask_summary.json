@@ -1,0 +1,78 @@
+{
+    "dataset_path": "C:\\Users\\Adhya\\OneDrive\\Desktop\\Projects\\Gen_AI\\project\\CSDD_seg",
+    "total_images": 2100,
+    "total_masks": 2100,
+    "total_valid_pairs": 2100,
+    "missing_masks": 0,
+    "missing_images": 0,
+    "dimension_mismatches": 0,
+    "unreadable_masks": 0,
+    "global_mask_modes": {
+        "P": 2100
+    },
+    "global_mask_values": {
+        "0": 27885780559,
+        "1": 31040290,
+        "2": 4212359,
+        "3": 25565192
+    },
+    "splits": {
+        "train": {
+            "images": 1343,
+            "masks": 1343,
+            "valid_pairs": 1343,
+            "missing_masks": 0,
+            "missing_images": 0,
+            "dimension_mismatches": 0,
+            "unreadable_masks": 0,
+            "empty_masks": 0,
+            "mask_modes": {
+                "P": 1343
+            },
+            "mask_values": {
+                "0": 17833766522,
+                "1": 19708500,
+                "2": 2690313,
+                "3": 16349737
+            }
+        },
+        "val": {
+            "images": 335,
+            "masks": 335,
+            "valid_pairs": 335,
+            "missing_masks": 0,
+            "missing_images": 0,
+            "dimension_mismatches": 0,
+            "unreadable_masks": 0,
+            "empty_masks": 0,
+            "mask_modes": {
+                "P": 335
+            },
+            "mask_values": {
+                "0": 4448646155,
+                "1": 4866016,
+                "2": 663363,
+                "3": 3972306
+            }
+        },
+        "test": {
+            "images": 422,
+            "masks": 422,
+            "valid_pairs": 422,
+            "missing_masks": 0,
+            "missing_images": 0,
+            "dimension_mismatches": 0,
+            "unreadable_masks": 0,
+            "empty_masks": 0,
+            "mask_modes": {
+                "P": 422
+            },
+            "mask_values": {
+                "0": 5603367882,
+                "1": 6465774,
+                "2": 858683,
+                "3": 5243149
+            }
+        }
+    }
+}
